@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ntdart24
-- 👀 I’m interested in cách thành lập trình viên
-- 🌱 I’m currently learningl lớp 12
+- 👀 I’m interested in how to become a programmer
+- 🌱 I’m currently learningl high school 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
